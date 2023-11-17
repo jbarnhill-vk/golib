@@ -1,1 +1,1 @@
-module github.com/dsnet/golib
+module github.com/jbarnhill-vk/golib
